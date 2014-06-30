@@ -1,10 +1,10 @@
-R-Programming-cousera
+R-Programming
 =====================
 
-### Data Science Specialization
+### Data Science Specialization @ Cousera
 
 
-##This Repository contains:
+###This Repository contains:
 * Lecture code
 * Quiz code and answer
 * Programming Assignment answer
